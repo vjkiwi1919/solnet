@@ -1,5 +1,5 @@
 
-describe('Solenet-Test Automation challenge', () => {
+describe('Solnet-Test Automation challenge', () => {
 
 })
 
